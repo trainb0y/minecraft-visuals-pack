@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "1494ca5649a36442c9bc8b5a08934bfd07c977ef66dcab98d1af8be3b7e9db87"
+
+[[files]]
+file = "README.md"
+hash = "f1540f691c1c7becdd2c2a1398bc0928a52cafb542e85451a37d978fdb3daeb4"
+
+[[files]]
 file = "config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
@@ -59,11 +67,6 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
@@ -89,13 +92,18 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
-file = "mods/logical-zoom.pw.toml"
-hash = "7bdc07bbbab297f260213d23134915977679c8df8df0d2695222fe20949a58a5"
+file = "mods/modmenu.pw.toml"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
+file = "mods/ok-zoomer.pw.toml"
+hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
 metafile = true
 
 [[files]]
