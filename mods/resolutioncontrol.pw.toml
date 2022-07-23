@@ -1,0 +1,9 @@
+name = "Resolution Control+"
+filename = "resolution-control-plus-mc1.19-3.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/xratei/Resolution-Control/releases/download/3.0.0%2B1.19/resolution-control-plus-mc1.19-3.0.0.jar"
+
+hash-format = "sha256"
+hash = "c8e77ef6407c78f2d1ca99f2c6f87194dd6f85b2f47988597d43d2c3fb109f9f"
