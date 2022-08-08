@@ -1,13 +1,13 @@
 name = "trainb0y's 1.19 Visual Pack"
 author = "trainb0y"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0eb6e1dc3436326d1a47661ac1e6f14416b7ed17360b2bbb15738ce25dc45038"
+hash = "73c02cd132c57b5e57e02fe6ba20b0ac2c7871e55ed147614a5d4f070014f10c"
 
 [versions]
-minecraft = "1.19.1"
+minecraft = "1.19.2"
 quilt = "0.17.2-beta.1"
